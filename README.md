@@ -1,5 +1,5 @@
 # Pomodora-Timer-App
-Time management app that follows Pomodora Technique(25 minutes of uninterrupted work -> 5 minutes break -> repeat). It also allows users to block distracting websites. 
+Time management app that follows Pomodora Technique. Pomodora Technique breaks work into 25 minutes of uninterrepted work time followed by 5 minutes break. The application also allows users to block distracting websites during the focus time.  
 
 # Requirement
 * python3
