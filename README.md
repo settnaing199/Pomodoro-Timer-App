@@ -5,3 +5,5 @@ Time management app that follows Pomodora Technique. It also allows users to blo
 * python3
 * PyQt5
 * MySQL
+
+#
