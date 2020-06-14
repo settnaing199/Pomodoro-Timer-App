@@ -7,4 +7,4 @@ Time management app that follows Pomodora Technique. It also allows users to blo
 * MySQL
 
 #
-![](TomatoTimer.png)
+<img src="images/TomatoTimer.png" width = "100" height = "100">
