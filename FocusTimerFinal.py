@@ -42,7 +42,7 @@ class ContLCDClock(QtWidgets.QWidget):
     #Database connection
     def DBConnection(self):
         # local host , user, password, database Name
-        self.db = pymysql.connect('localhost', 'root', 'PowerNYC007!','test1' )
+        self.db = pymysql.connect('localhost', 'root', '','test1' )
 
         # prepare a cursor object using cursor() method
         # use to call SQL queires on python
